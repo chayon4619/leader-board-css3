@@ -147,6 +147,7 @@ hr {
 
 .course-duration {
     background-color: #FFE4E8;
+    border: 1px solid #FF4A60;
     border-radius: 15px;
     color: #FF4A60;
     font-size: 15px;
